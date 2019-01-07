@@ -1,7 +1,7 @@
 # phpunit-code-coverage-badger
 Generates a badge showing test coverage of the code.
 
-## Usage
+![Code Coverage](https://ap-code-coverage.s3.eu-west-2.amazonaws.com/elements.svg)
 
 The package provides 2 commands: to create a badge and to store it on Amazon S3 bucket.
 
